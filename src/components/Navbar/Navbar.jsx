@@ -16,20 +16,20 @@ const Navbar = () => {
       </div>
       <ul className="app__navbar-links">
         <li className="p_opensans">
-          <a href="">Home</a>
+          <a href="#home">Home</a>
         </li>
         <li className="p_opensans">
-          <a href="">About</a>
+          <a href="#about">About</a>
         </li>
         <li className="p_opensans">
-          <a href="">Menu</a>
+          <a href="#menu">Menu</a>
         </li>
         <li className="p_opensans">
-          <a href="">Awards</a>
+          <a href="#awards">Awards</a>
         </li>
 
         <li className="p_opensans">
-          <a href="">Contact</a>
+          <a href="#contact">Contact</a>
         </li>
       </ul>
 
